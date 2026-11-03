@@ -1,29 +1,24 @@
+# 🚀 Meus Projetos Python - Balde Iaia
 
-# 🚀 Meus Projetos Python
+> De Bissau para o mundo | Aprendendo Python no Termux
 
-> Aprendendo a programar do zero pelo celular - Bissau, GW 🇬🇼
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![GitHub Streak](https://img.shields.io/badge/Streak-Ativa-brightgreen)
 
-### 👨‍💻 Sobre mim
-Estudante de programação, construindo meu portfólio 1 projeto por dia.
-Foco em Python e automação.
+### 📂 Meus projetos
 
-### 📂 Projetos
-
-| Projeto | Descrição |
-| :--- | :--- |
-| `ola.py` | Meu primeiro programa Python |
-| `calc2.py` | Calculadora no terminal |
+| Projeto | O que faz |
+|---------|-----------|
+| `imc.py` | Calcula seu IMC |
+| `aniversario.py` | Quantos dias faltam pro seu aniversário 🎂 |
+| `clima.py` | Analisa a temperatura de Bissau |
+| `contador.py` | Conta palavras e letras |
+| `conversor.py` | Conversor de moedas/temperaturas |
+| `hoje.py` | Mostra data e hora atual |
 | `jogo.py` | Jogo de adivinhação |
-| `lista.py` | Gerenciador de tarefas |
-| `senha.py` | Gerador de senhas seguras |
-| `qr.py` | Gerador de QR Code com Python |
+| `calc2.py` | Calculadora simples |
 
-### 🛠️ Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🟩 Meu objetivo
-Manter 1 commit por dia durante 30 dias!
-
----
-⭐ Feito por **Ianis** | [Meu GitHub](https://github.com/baldeiaia486-cmyk)
+### 💻 Como rodar
+No Termux:
+```bash
+python nome_do_arquivo.py
