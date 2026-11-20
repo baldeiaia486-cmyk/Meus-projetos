@@ -1,0 +1,17 @@
+print("=== História Maluca de Bissau 😂 ===")
+print("Responde rápido, sem pensar muito!")
+
+nome = input("\nTeu nome: ")
+amigo = input("Nome de um amigo: ")
+lugar = input("Um lugar em Bissau (ex: Mercado de Bandim): ")
+comida = input("Uma comida (ex: arroz com peixe): ")
+animal = input("Um animal: ")
+verbo = input("Um verbo (ex: correr, dançar): ")
+
+print("\n--- Tua História ---")
+print(f"Um dia, {nome} estava em {lugar} a comer {comida}.")
+print(f"De repente apareceu um {animal} gigante!")
+print(f"{nome} chamou {amigo} e os dois começaram a {verbo} muito rápido!")
+print(f"O {animal} ficou com medo e fugiu para o mar.")
+print(f"No final, todos comeram {comida} e riram muito! 😂🎉")
+print(f"\nFim da história de {nome}!")
